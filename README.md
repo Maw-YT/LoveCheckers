@@ -8,12 +8,6 @@ A clean and lightweight Checkers game built using the **LÖVE (Love2D)** framewo
 ## 📖 About
 LoveCheckers is a logic-based board game implementation written in **Lua**. By leveraging the power of the LÖVE framework, it provides a cross-platform experience with smooth 2D rendering.
 
-## 🚀 Getting Started
-
-### Prerequisites
-To run this game, you need to have **LÖVE** installed on your system:
-* Download it at [love2d.org](https://love2d.org/)
-
 ### Installation & Running
 
 ### 1. Easy way (recommended)
@@ -22,6 +16,11 @@ To run this game, you need to have **LÖVE** installed on your system:
 3. Enjoy
 
 ### 2. Techinical way
+
+### Prerequisites
+To run this game the techinical way, you need to have **LÖVE** installed on your system:
+* Download it at [love2d.org](https://love2d.org/)
+
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Maw-YT/LoveCheckers.git](https://github.com/Maw-YT/LoveCheckers.git)
@@ -31,6 +30,7 @@ To run this game, you need to have **LÖVE** installed on your system:
   ```bash
   love .
   ```
+
 # 🛠 **Tech Stack**
 * Framework: [LÖVE](https://love2d.org/)
 * Language: [Lua](https://lua.org/)
