@@ -16,6 +16,12 @@ To run this game, you need to have **LÖVE** installed on your system:
 
 ### Installation & Running
 
+### 1. Easy way (recommended)
+1. Download the latest release
+2. Extract the zip and open the .exe
+3. Enjoy
+
+### 2. Techinical way
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Maw-YT/LoveCheckers.git](https://github.com/Maw-YT/LoveCheckers.git)
@@ -36,3 +42,5 @@ To run this game, you need to have **LÖVE** installed on your system:
 * **[P]:** Pause or Resume the AI
 * **[N]:** Tries to connect you to a server (e.g. 0.0.0.0:6789)
 * **[R]:** Resets/Restarts the game.
+
+This readme was made by AI. Sorry 👏
